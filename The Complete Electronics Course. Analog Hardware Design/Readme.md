@@ -1,0 +1,1 @@
+https://www.udemy.com/course/electronic-circuits-for-beginners-analog-hardware-design/
