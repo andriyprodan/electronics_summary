@@ -1,9 +1,10 @@
 ![alt text](www.udemy.com_course_electronic-circuits-for-beginners-analog-hardware-design_learn_lecture_24502332-1.png)  
-В колі змінного струму конденсатор весь час заряджається і розряджається.  
+В колі змінного струму конденсатор весь час заряджається і розряджається. У колі змінного струму, де є тільки резистор, напруга і струм знаходяться в одній фазі, тобто струм змінюється прямо пропорційно напрузі.   
 ![alt text](<www.udemy.com_course_electronic-circuits-for-beginners-analog-hardware-design_learn_lecture_24502332 (1).png>)  
-У колі змінного струму, де є тільки резистор, напруга і струм знаходяться в одній фазі, тобто струм змінюється прямо пропорційно напрузі.  
-![alt text](<www.udemy.com_course_electronic-circuits-for-beginners-analog-hardware-design_learn_lecture_24502332 (2).png>)  
+
 У колі змінного струму з чисто одним конденсатором, струм випереджає напругу на 90 градусів ($\frac{\pi}{2}$ радіан).  
+![alt text](<www.udemy.com_course_electronic-circuits-for-beginners-analog-hardware-design_learn_lecture_24502332 (2).png>)  
+
 Чому так відбувається?  
 ![alt text](<www.udemy.com_course_electronic-circuits-for-beginners-analog-hardware-design_learn_lecture_24502332 (3).png>)  
 На попередньому уроці пояснювалося, що струм залежить від швидкості зміни напруги.  на цих графіках видно, що коли напруга змінюється, тоді тече струм. Коли напруга стала, струм не тече.  
