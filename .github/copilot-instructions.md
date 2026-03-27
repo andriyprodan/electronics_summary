@@ -1,0 +1,1 @@
+<!-- Copilot: expand only formulas and variable descriptions -->
